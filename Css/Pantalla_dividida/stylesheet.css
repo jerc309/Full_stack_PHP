@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    font-family: 'Open+Sans+Condensed', sans-serif;
+    
+}
+.cuadro1{
+    background-color: rgb(195, 164, 22);
+    width: 50%;
+    height: 100vh;
+    position: absolute;
+    left: 0px;
+
+}
+.cuadro2{
+    background-image: url("https://picsum.photos/800?random=1");
+    background-size: cover;
+    width: 50%;
+    background-color: black;
+    height: 100vh;
+    right: 0px;
+    position: absolute;
+
+}
+
+.parrafo{
+    font-size: 20px;
+    
+    line-height: 3rem;
+    margin-left: 80px;
+    width: 50%
+
+}
+.titulo1{
+    font-size: 4rem;
+    top: 3px;
+    margin: auto;
+    margin-top: 250px;
+    font-family: Arial;
+    margin-left: 80px;
+    width: 50%;
+}
+.titulo2{
+    font-size: 4rem;
+    color: white;
+    margin: auto;
+    margin-left: 80px;
+    width: 50%
+    
+}
+.boton{
+    border: 3px solid white;
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    border-radius: 100px;
+    font-weight: bold;
+    display:inline-block;
+    margin: top 70px;
+    margin-left: 80px;
+}
+
+a:hover{
+    border: 3px solid white;
+    text-decoration: none;
+    padding: 20px;
+    background-color: white; 
+    color: black;
+    border-radius: 100px;
+    font-weight: bold;
+    display:inline-block;
+    margin-top:80px;
+    margin-left: 80px;
+}
