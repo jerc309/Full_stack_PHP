@@ -54,10 +54,10 @@ body{
     text-decoration: none;
     padding: 20px;
     color: white;
-    border-radius: 100px;
+    border-radius: 10vw;;
     font-weight: bold;
     display:inline-block;
-    margin: top 70px;
+    margin: top 10vw;
     margin-left: 10vw;;
 }
 
@@ -70,6 +70,6 @@ a:hover{
     border-radius: 100px;
     font-weight: bold;
     display:inline-block;
-    margin-top:80px;
+    margin-top:10vw;;
     margin-left: 10vw;;
 }
