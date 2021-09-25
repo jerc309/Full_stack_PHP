@@ -25,9 +25,9 @@ body{
 }
 
 .parrafo{
-    font-size: 1.5vw;
+    font-size: 1vw;
     
-    line-height: 3vw;
+    line-height: 2vw;
     margin-left: 10vw;
     width: 20vw
 
@@ -52,24 +52,24 @@ body{
 .boton{
     border: 0.2vw solid white;
     text-decoration: none;
-    padding: 3vw;x;
+    padding: 20px;
     color: white;
-    border-radius: 10vw;;
+    border-radius: 100px;
     font-weight: bold;
     display:inline-block;
-    margin: top 10vw;
-    margin-left: 10vw;;
+    margin-top:50px;
+    margin-left: 10vw;
 }
 
 a:hover{
     border: 0.2vw solid white;
     text-decoration: none;
-    padding: 10vw;
+    padding: 20px;
     background-color: white; 
     color: black;
     border-radius: 100px;
     font-weight: bold;
     display:inline-block;
-    margin-top:10vw;;
-    margin-left: 10vw;;
+    margin-top:50px;
+    margin-left: 10vw;
 }
