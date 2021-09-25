@@ -6,6 +6,23 @@ body{
     background-color: rgb(195, 164, 22);
     
 }
+.titulo1{
+    font-size: 3.5vw;
+    top: 3px;
+    margin: auto;
+    margin-top: 250px;
+    font-family: Arial;
+    margin-left: 10vw;
+    width: 50%;
+}
+.titulo2{
+    font-size: 3.5vw;
+    color: white;
+    margin: auto;
+    margin-left: 10vw;
+    width: 50%
+    
+}
 .cuadro1{
     background-color: rgb(195, 164, 22);
     width: 50%;
@@ -33,23 +50,7 @@ body{
     width: 20vw
 
 }
-.titulo1{
-    font-size: 3.5vw;
-    top: 3px;
-    margin: auto;
-    margin-top: 250px;
-    font-family: Arial;
-    margin-left: 10vw;
-    width: 50%;
-}
-.titulo2{
-    font-size: 3.5vw;
-    color: white;
-    margin: auto;
-    margin-left: 10vw;
-    width: 50%
-    
-}
+
 .boton{
     border: 0.2vw solid white;
     text-decoration: none;
