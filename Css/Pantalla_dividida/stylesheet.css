@@ -25,11 +25,11 @@ body{
 }
 
 .parrafo{
-    font-size: 1vw;
+    font-size: 1.5vw;
     
-    line-height: 3rem;
-    margin-left: 80px;
-    width: 50%
+    line-height: 3vw;
+    margin-left: 10vw;
+    width: 20vw
 
 }
 .titulo1{
@@ -38,19 +38,19 @@ body{
     margin: auto;
     margin-top: 250px;
     font-family: Arial;
-    margin-left: 80px;
+    margin-left: 10vw;
     width: 50%;
 }
 .titulo2{
     font-size: 3.5vw;
     color: white;
     margin: auto;
-    margin-left: 80px;
+    margin-left: 10vw;
     width: 50%
     
 }
 .boton{
-    border: 3px solid white;
+    border: 0.2vw solid white;
     text-decoration: none;
     padding: 20px;
     color: white;
@@ -62,7 +62,7 @@ body{
 }
 
 a:hover{
-    border: 3px solid white;
+    border: 0.2vw solid white;
     text-decoration: none;
     padding: 20px;
     background-color: white; 
