@@ -19,3 +19,14 @@ Curso Full Stack PHP
         INDEX: https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Actividad_pbligatoria_css/index.html
 
         CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Actividad_pbligatoria_css/stylesheet.css
+    
+    - Pantalla Dividida
+        URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Pantalla_dividida/index.html
+
+        INDEX:https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Pantalla_dividida/index.html
+
+        CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Pantalla_dividida/stylesheet.css
+
+
+
+
