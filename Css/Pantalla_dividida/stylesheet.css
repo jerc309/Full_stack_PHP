@@ -52,24 +52,25 @@ body{
 .boton{
     border: 0.2vw solid white;
     text-decoration: none;
-    padding: 20px;
+    padding: 1vw;
     color: white;
-    border-radius: 100px;
+    border-radius: 20vw;
     font-weight: bold;
     display:inline-block;
-    margin-top:50px;
+    margin-top:2vw;
     margin-left: 10vw;
+    font-size: 1vw;
 }
 
 a:hover{
-    border: 0.2vw solid white;
+    border: 0.3vw solid white;
     text-decoration: none;
-    padding: 20px;
+    padding: 1vw;
     background-color: white; 
     color: black;
-    border-radius: 100px;
+    border-radius: 20vw;
     font-weight: bold;
     display:inline-block;
-    margin-top:50px;
+    margin-top:2vw;;
     margin-left: 10vw;
 }
