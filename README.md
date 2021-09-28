@@ -27,6 +27,15 @@ Curso Full Stack PHP
 
         CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Css/Pantalla_dividida/stylesheet.css
 
+- Bootsrap
+    -Actividad práctica obligatoria
+        URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/bootstrap/index.html
+
+        INDEX:
+
+        CSS:
+
+
 
 
 
