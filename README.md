@@ -31,9 +31,9 @@ Curso Full Stack PHP
     -Actividad práctica obligatoria
         URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/bootstrap/index.html
 
-        INDEX:
+        INDEX: https://github.com/jerc309/Full_stack_PHP/blob/main/bootstrap/index.html
 
-        CSS:
+        CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/bootstrap/stylesheet.css
 
 
 
