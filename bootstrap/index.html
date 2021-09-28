@@ -12,28 +12,43 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-10 ">
-              First in DOM, ordered last
+    <div class="container overflow-hidden">
+        <div class="row" class="row justify-content-evenly gx-5">
+            <div class="col-6 "><ul class="nav">
+              <li class="prueba">
+                Codo a Codo
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              
+              <li class="nav-item">
+                <a class="nav-link disabled">Disabled</a>
+              </li>
+            </ul></div>
+            
+            <div class="col-4 order-last">
+              
+              <input class="form-control form-control-lg" type="text" placeholder="Buscar" aria-label=".form-control-lg example">
             </div>
             <div class="col-2 order-last">
-              Second in DOM, unordered
+              <button type="button" class="btn btn-light  btn-lg">Buscar</button>
             </div>
-          </div>
         </div>
         
-        <div class="row">
-            <div class="col-sm-4">
-                
-              <div class="card">
-                
-               
-                <div class="card-body">
+        
+        <div class="row" height="100%S" width="100%" >
+          <div class="col-sm-4">
+                <div class="card">
+                  <div class="card-body">
                     <img src="html.jpeg" class="img-fluid" width="100%"  alt="...">
                     <div class="p-3 mb-2 bg-danger bg-gradient text-white"></div>
-                  <h5 class="card-title">Special title treatment</h5>
-                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                  <h5 class="card-title">Titulo 1</h5>
+                  <p class="card-text">Contenido de card</p>
+                  <p class="actualizacion">Ultima actualizacion 1</p>
 
                 </div>
               </div>
@@ -41,13 +56,11 @@
             <div class="col-sm-4">
               <div class="card">
                 <div class="card-body">
-                    <div class="p-3 mb-2 bg-danger bg-gradient text-white">.bg-danger
-                        <div class="text-center">
-                            <img src="css.png" class="img-fluid" width="50%"  alt="...">
-                        </div> 
-                        </div>
-                  <h5 class="card-title">Special title treatment</h5>
-                  <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                  <img src="css.png" class="img-fluid" width="100%"  alt="...">
+                    <div class="p-3 mb-2 bg-danger bg-gradient text-white"></div>
+                  <h5 class="card-title">Titulo 2</h5>
+                  <p class="card-text">Contenido de card</p>
+                  <p class="actualizacion">Ultima actualizacion 1</p>
 
                 </div>
               </div>
@@ -55,22 +68,40 @@
             <div class="col-sm-4">
                 <div class="card">
                   <div class="card-body">
-                    <div class="p-3 mb-2 bg-danger bg-gradient text-white">.bg-danger
-                        <div class="text-center">
-                            <img src="bootstrap.png" class="img-fluid" width="100%"  alt="...">
-                        </div> 
-                        </div>
-                    <h5 class="card-title">Special title treatment</h5>
-                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <img src="bootstrap.png" class="img-fluid" width="100%"  alt="...">
+                    <div class="p-3 mb-2 bg-danger bg-gradient text-white"></div>
+                    <h5 class="card-title">Titulo 3</h5>
+                    <p class="card-text">Contenido de card</p>
+                    <p class="actualizacion">Ultima actualizacion 1</p>
                     
                   </div>
                 </div>
               </div>
 
+        </div>
+        <div class="mb-3">
+          <label for="exampleFormControlInput1" class="form-label">Email</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" >
+        </div>
+
+        <div class="mb-3">
+          <label for="" class="form-label">Contraseña</label>
+          <input type="email" class="form-control" id="" placeholder="">
+        </div>
+        <div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+            <label class="form-check-label" for="flexCheckDefault">
+              Verificar
+            </label>
           </div>
 
-        
-            </div>>
+          <div class="col-auto">
+            <button type="submit" class="btn btn-primary mb-3">Enviar</button>
+          </div>
+        </div>
+
+    </div>
 
         
          
