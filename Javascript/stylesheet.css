@@ -1,0 +1,239 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 100%;
+    display:block;
+    margin: 0;
+    padding: 0 ;
+    border: 0;
+    box-sizing: border-box;
+    
+    }
+
+.contenedor {
+    width: 100%;
+    display: block;
+    margin: 0;
+    padding: 0 !important;
+    border: 0;
+
+}
+.row{
+    margin-left: 0 !important;
+}
+.menu {
+    background-color: #34393f;
+    align-items: center;
+    padding: 0;
+    position: fixed;
+    margin-bottom: 0;
+    width: 100%;
+    z-index: 100;
+ 
+
+   
+}
+ 
+.logo{
+    display:flex;
+    align-content: center;
+    color: rgb(253, 253, 253);
+ 
+
+}
+.logo_codo{
+    width: 10vh;
+    
+   
+
+    
+    
+}
+
+
+.row_2 {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background-image: url(ba1.jpg);
+    z-index: -2;
+    
+
+}
+
+
+.contenido_1:before{
+    content:'';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 0%;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.6); 
+    height: 100vh;
+     }
+.contenido_1 p,h2,button{
+    font-size: 1rem;
+    color: #fff !important;
+    position: relative
+    }
+.parrafo1 {
+    
+    margin-top: 2vh !important;  
+}
+
+
+
+.row_3 {
+    width: 100%;
+    height: 100vh;
+    background-image:url("ba1.jpg");
+    display: block;
+}
+
+.button_1{
+    
+  
+    padding: 10px !important;
+
+}
+.raw_3 {
+    width: 100%;
+    height: 100vh;
+
+    display:block;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.conoce p,h3{
+    position: relative;
+    display:block;
+    width: 100%;
+    height: 2rem;
+    
+    margin: 0;
+    padding-right: 26rem;
+    padding-left: 26rem;
+    border: 0;
+
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+    
+
+}
+
+.card-img-top{
+    height: 18rem;
+
+}
+
+.raw_4 {
+    width: 100%;
+    height: 100vh;
+}
+ .col_1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(honolulu.jpg);
+    background-size:cover;
+ }
+ .col_2{
+     background-color: #34393f;
+ }
+
+ .col_2 h6{
+    color: white;
+    font-size: 2rem;
+    padding-left: 1rem;
+    padding-top: 2rem;
+    font-style: a;
+ }
+ .col_2 p{
+    color: white;
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.col_5{
+    width: 100%;
+    height: 100vh !important;
+    padding: 10px !important;
+
+
+}
+
+.conoce_2 {
+    position: relative;
+    display:block;
+    width: 100%;
+    
+    
+    margin: 0;
+    padding-top: 2rem;
+    padding-right: 26rem;
+    padding-left: 26rem;
+    border: 0;
+
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+/*.row_6{
+/     flex-grow: initial;
+/*     padding: 0;
+/*     margin: 0;
+/*     justify-items: left;
+/* }
+/*
+/*.col_6{
+/*     padding: 0;
+/*     margin: 0;
+/*     justify-items: left;
+*/ 
+.enviar{
+    background-color: rgb(150, 199, 51) !important;
+    border: olivedrab !important
+}
+.sobre{
+    margin-top: 1rem;
+}
+
+.row_5{
+    margin-top: 2rem;
+
+
+}
+
+.recuerda{
+    color: rgba(0,0,0,0.6);
+    padding-top: 1rem;
+}
+
+.footer{
+    background-color: #1c3d4c  ;
+    width: 100%;
+    height: 12hv;
+    margin-left: 0 !important;
+    margin-top: 1;
+    color: white !important;
+font-size: 1.3rem;
+
+}
+
