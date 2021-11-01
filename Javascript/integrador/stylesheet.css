@@ -201,12 +201,14 @@ body {
 /*     margin: 0;
 /*     justify-items: left;
 /* }
-/*
-/*.col_6{
-/*     padding: 0;
-/*     margin: 0;
-/*     justify-items: left;
-*/ 
+*/
+.col_6{
+     padding: 0 !important;
+     margin: 2rem 0;
+     
+     justify-items: left;
+}
+ 
 .enviar{
     background-color: rgb(150, 199, 51) !important;
     border: olivedrab !important
@@ -217,6 +219,8 @@ body {
 
 .row_5{
     margin-top: 2rem;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
 
 
 }
@@ -230,10 +234,12 @@ body {
     background-color: #1c3d4c  ;
     width: 100%;
     height: 12hv;
-    margin-left: 0 !important;
-    margin-top: 1;
+    padding: 2rem 20rem !important;
+    padding-top: 2rem;
+    
+   
     color: white !important;
-font-size: 1.3rem;
+    font-size: 1.3rem;
+    border: 20rem;
 
 }
-
