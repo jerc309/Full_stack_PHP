@@ -37,11 +37,11 @@ Curso Full Stack PHP
 
 - Javascrip
         - Trabajo práctico integrador
-            URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/index.html
+            URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integrador/index.html
 
-            INDEX: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/index.html
+            INDEX: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integradpor/index.html
 
-            CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/stylesheet.css
+            CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integrador/stylesheet.css
 
 
 
