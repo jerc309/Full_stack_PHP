@@ -12,12 +12,6 @@ var variable_resultado= variable_a+variable_b
 console.log(variable_resultado)
 
 
-
-
-
-
-
-
 /* Ejercicio 2.
 Crear un programa que defina 5 variables llamadas “a”,“b”...“e” y una sexta variable llamada
 “promedio”. Cargar las 5 variables con valores y calcular el promedio de los mismos. Imprimir el resultado por consola. */
@@ -223,10 +217,45 @@ for (var i = 1; i<=6; i++) {
 /* Ejercicio 14.
 Se ingresan un conjunto de n alturas de personas por teclado. Mostrar la altura promedio de las personas. */
 
+console.log('Ejercicio 14')
+
+
+
+var numeros=[]
+var numero=0
+var personas= Number(prompt('Ingrese cantidad de personas'))
+var personasCon=0
+while (personasCon!==personas) {
+    numero= Number(prompt('Ingrese un la altura'))
+    numeros.push(numero)
+    personasCon++
+}
+numeros.pop()
+
+var promedio=0
+for (var i = (numeros.length)-1 ; i >= 0; i--) {
+    /*console.log('El nuemro de la posicion '+i+' es: '+numeros[i])*/
+    promedio=promedio+numeros[i]
+    
+}
+var calculoPromedio=(promedio/personas)
+console.log('El promedio de la altura es :'+calculoPromedio)
+
+
 /* Ejercicio 15.
 Crear un Programa que pida al usuario un número entre 0 y 25, deberá mostrar por pantalla su
 significado en el bingo. Ej: 14 = "Borracho" */
 
+console.log('Ejercicio 7')
+var puntuacion= Number(prompt('Ingrese un número entre 0 y 25'))
+var calificaion=["Agua","Niño","Bingo.es","La cama","Gato","Perro","Revólver","Incendio","Arroyo","Cañón","Minero","Soldado","La mala suerte","Borracho","Niña bonita","Anillo","Desgracia","Sangre","Pescado","La Fiesta","Mujer","Loco","Cocinero","Caballo","Gallina"]
+alert('El significado en el bingo '+calificaion[puntuacion+1])
+
+
+
 /* Ejercicio 16.
 Crear 2 Vectores, uno corresponderá a los nombres y otro a los apellidos de 10 compañeros del
 curso de Fullstack de codo a codo */
+
+var nombre=["juan","pedro","ramon","Jose"]
+var apellidos=["Reyes","carodna","madera","Guerrero"]
