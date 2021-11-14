@@ -43,6 +43,14 @@ Curso Full Stack PHP
 
             CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integrador/stylesheet.css
 
+        - Actividad obligatorias JavaScript - 1
+            URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_1/index.html
+            JavaScript:https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_1/script.js
+
+        - Actividad obligatorias JavaScript - 2
+            URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_2/index.html
+            JavaScript: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_2/script.js
+
 
 
 
