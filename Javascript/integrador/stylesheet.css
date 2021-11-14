@@ -142,7 +142,7 @@ body {
 }
 
 .buenosaires{
-    padding: 10vh 0 !important;
+    padding: 0%;
 }
 .row_4 {
     width: 100%;
@@ -150,7 +150,7 @@ body {
     display: inline-block !important;
 }
  .col_1{
-    width: 100%;
+    width: 50%;
     height: 100vh;
     background-image: url(honolulu.jpg);
     background-size:cover;
