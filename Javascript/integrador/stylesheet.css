@@ -113,6 +113,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
+    padding: 10vh 0;
 }
 .conoce p,h3{
     position: relative;
@@ -141,7 +142,7 @@ body {
 }
 
 .buenosaires{
-    padding: 0%;
+    padding: 10vh 0 !important;
 }
 .row_4 {
     width: 100%;
