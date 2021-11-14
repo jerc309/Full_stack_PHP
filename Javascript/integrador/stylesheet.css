@@ -150,7 +150,7 @@ body {
     display: inline-block !important;
 }
  .col_1{
-    width: 50%;
+    width: 100%;
     height: 100vh;
     background-image: url(honolulu.jpg);
     background-size:cover;
