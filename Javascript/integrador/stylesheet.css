@@ -172,8 +172,8 @@ body {
 
 .col_5{
     width: 100%;
-    height: 100vh !important;
-    padding: 10px !important;
+    
+    padding: 5vh !important;
 
 
 }
@@ -230,12 +230,17 @@ body {
     padding-top: 1rem;
 }
 
+.fin{
+    height: 100vh !important;
+}
 .footer{
     background-color: #1c3d4c  ;
     width: 100%;
-    height: 12hv;
+    height: 10hv;
     padding: 2rem 20rem !important;
     padding-top: 2rem;
+    margin-bottom: 0 !important; 
+    display: block;
     
    
     color: white !important;
