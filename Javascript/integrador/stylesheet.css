@@ -141,21 +141,23 @@ body {
 }
 
 .buenosaires{
-    display: inline-block;
+
 }
 .row_4 {
-    width: 50%;
+    width: 100%;
     height: 100vh;
-    display: inline;
+    display: inline-block !important;
 }
  .col_1{
-    width: 100%;
+    width: 50%;
     height: 100vh;
     background-image: url(honolulu.jpg);
     background-size:cover;
+    
  }
  .col_2{
      background-color: #34393f;
+     
  }
 
  .col_2 h6{
