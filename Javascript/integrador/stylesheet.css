@@ -241,10 +241,12 @@ body {
     padding-top: 2rem;
     margin-bottom: 0 !important; 
     display: block;
+    padding-bottom: 0;
     
    
     color: white !important;
     font-size: 1.3rem;
     border: 20rem;
+    float: inline-end;
 
 }
