@@ -159,6 +159,7 @@ body {
  .col_2{
      background-color: #34393f;
      
+
  }
 
  .col_2 h6{
@@ -227,7 +228,7 @@ body {
 .row_5{
     margin-top: 2rem;
     margin-right: 0 !important;
-    padding-left: 0 !important;
+    padding: 2rem 0 !important;
 
 
 }
