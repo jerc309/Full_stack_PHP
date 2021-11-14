@@ -142,6 +142,7 @@ body {
 
 .buenosaires{
     padding: 0%;
+    display: inline-block;
 }
 .row_4 {
     width: 100%;
