@@ -162,3 +162,12 @@ p.documentacion {
     padding-bottom: 0% !important;
 
 }
+
+p.documentacion {
+    font-size: 0.6rem !important;
+    margin: 0 !important;
+}
+.documentacion {
+    font-size: 0.6rem !important;
+    margin: 0 !important;
+}
