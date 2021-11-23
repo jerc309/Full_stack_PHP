@@ -11,8 +11,9 @@ body {
     box-sizing: border-box;
     
     }
-    .container_2{
-        height: 100vh !important;
+.container_2{
+    height: 100vh !important;
+    padding-bottom: 2rem;
         
         }
 .contenedor {
