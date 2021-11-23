@@ -51,6 +51,16 @@ Curso Full Stack PHP
             URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_2/index.html
             JavaScript: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/ActividadJavaScript_2/script.js
 
+- GIT
+    - Trabajo práctico integrador
+            URL: https://htmlpreview.github.io/?https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integrador_2/index.html
+
+            INDEX: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integradpor_2/index.html
+
+            CSS: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integrador_2/stylesheet.css
+
+            javaScript: https://github.com/jerc309/Full_stack_PHP/blob/main/Javascript/integradpor_2/index.js
+
 
 
 

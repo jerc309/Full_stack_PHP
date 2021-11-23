@@ -36,6 +36,31 @@ body {
    
 }
  
+/* ----Color link menu */
+
+.link_1{
+    color: #99A3A4  !important;
+    
+
+}
+.link_1:hover {
+    color: #566573 !important;
+ }
+
+.Comprar{
+    color: #1E8449  !important;
+}
+.Comprar:hover {
+    color: #145A32 !important;
+ }
+
+ .conferencia{
+    color: #FBFCFC  !important;
+}
+.conferencia:hover {
+    color: #D0D3D4 !important;
+ }
+/* ----Fin Color link menu */
 .logo{
     display:flex;
     align-content: center;
@@ -244,7 +269,7 @@ body {
     background-color: #1c3d4c  ;
     width: 100%;
     height: 10hv;
-    padding: 0.9rem 20rem !important;
+    padding: 0.9rem 10rem !important;
     padding-top: 2rem;
     margin-bottom: 0 !important; 
     display: block;

@@ -1,0 +1,155 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 100%;
+    display:block;
+    margin: 0;
+    padding: 0 ;
+    border: 0;
+    box-sizing: border-box;
+    
+    }
+
+.contenedor {
+    width: 100%;
+    display: block;
+    margin: 0;
+    padding: 0 !important;
+    border: 0;
+
+}
+
+
+.menu {
+    background-color: #34393f;
+    align-items: center;
+    padding: 0;
+    position: fixed;
+    margin-bottom: 0;
+    width: 100%;
+    z-index: 100;
+ 
+
+   
+}
+.row{
+    margin-left: 0 !important;
+}
+ 
+.logo{
+    display:flex;
+    align-content: center;
+    color: rgb(253, 253, 253);
+ 
+
+}
+.logo_codo{
+    width: 10vh;
+    
+
+}
+.row{
+    margin-left: 0 !important;
+}
+.parrafo1 {
+    
+    margin-top: 2vh !important;  
+}
+/* ----Color link menu */
+
+.link_1{
+    color: #99A3A4  !important;
+    
+
+}
+.link_1:hover {
+    color: #566573 !important;
+ }
+
+.Comprar{
+    color: #1E8449  !important;
+}
+.Comprar:hover {
+    color: #145A32 !important;
+ }
+
+ .conferencia{
+    color: #FBFCFC  !important;
+}
+.conferencia:hover {
+    color: #D0D3D4 !important;
+ }
+/* ----Fin Color link menu */
+
+/* ----Card---------------------- */
+.text-descuento {
+   
+    font-size: 0.9rem !important;
+}
+
+.card-title{
+    font-size: 1rem!important;
+    font-weight: bold;
+}
+
+p.documentacion {
+    font-size: 0.6rem !important;
+}
+/* --------------Card------------ */
+
+
+
+.descuentos {
+    padding: 90rem 400rem !important;
+    position: block;
+    margin-top: 0 !important;
+    height: 100vh;
+ 
+
+   
+}
+
+.descuentos2 {
+    padding: 5rem 29% !important;
+    position: block;
+    margin-top: 0rem !important;
+
+    height: 100vh;
+ 
+
+   
+}
+.total{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.footer{
+    background-color: #1c3d4c  ;
+    width: 100%;
+    height: 10hv;
+    padding: 0.2rem 2rem !important;
+    padding-top: 2rem;
+    margin-bottom: 0 !important; 
+    display: block;
+    padding-bottom: 0;
+    
+   
+    color: white !important;
+    font-size: 1rem;
+    border: 20rem;
+    float: inline-end;
+
+}
+
+.pagar-1{
+    padding: 0.5rem !important ;
+}
+.total{
+
+    padding-left:  0 !important;
+    padding-top: 0% !important;
+    padding-bottom: 0% !important;
+
+}
